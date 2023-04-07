@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912850352794",
+    "project_id": "elearning-5d325",
+    "storage_bucket": "elearning-5d325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912850352794:android:af0292cbf3e97daeba3d23",
+        "android_client_info": {
+          "package_name": "io.agora.openvcall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912850352794-8kov20u70qqv54cihdlajiskbfl6h58m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsE87jz43F5GAsP7nUktFJBYXbhgiNVD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912850352794-8kov20u70qqv54cihdlajiskbfl6h58m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
